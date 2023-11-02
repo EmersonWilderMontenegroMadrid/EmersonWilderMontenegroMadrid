@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 left"> <img src="https://komarev.com/ghpvc/?username=emersonwildermontenegromadrid&label=Profile%20views&color=0e75b6&style=flat" alt="emersonwildermontenegromadrid" /> </p>
 
-<p align="left"> <a href ="[https://github.com/ryo-ma/github-profile-tropic](https://github.com/EmersonWilderMontenegroMadrid)"><img src="https://github-profile-tropical.vercel.app/?username=emersonwildermontenegromadrid" alt="emersonwildermontenegromadrid" /></a> </p>
+<p align="left"> <a href ="https://github.com/EmersonWilderMontenegroMadrid"><img src="https://github.com/EmersonWilderMontenegroMadrid" alt="emersonwildermontenegromadrid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields .io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
